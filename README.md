@@ -15,7 +15,7 @@ You can click the Preview link to take a look at your changes.
 Hello there. My name is An and I am a person that have many interests.
 
 Here is a small list of my interests
-- Playing game
+- Playing game, then understanding what make this game so enjoyable and addicting to play.
 - Coding simple programs
 - Creating simple 3D modals from time to time. 
 
