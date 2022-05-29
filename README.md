@@ -17,8 +17,8 @@ Hello there. My name is An and I am a person that have many interests.
 Here is a small list of my interests
 - Playing game, then understanding what make this game so enjoyable and addicting to play.
 - Coding simple programs
-- Creating simple 3D modals from time to time. 
-
+<!-- - Creating simple 3D modals from time to time. 
+ -->
 ## Currently
 
 I am currently learning Full Stack Web Development.
