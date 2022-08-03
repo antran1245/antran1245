@@ -19,6 +19,10 @@ Here is a small list of my interests
 - Coding simple programs, websites, and applications.
 <!-- - Creating simple 3D modals from time to time. 
  -->
+ 
+ Want to know more? 
+ Head over to my [portfolio page](https://antran1245.github.io/portfolio-2022/).
+ 
 ## Currently
 
-I am currently learning Full Stack Web Development.
+I am looking for work and creating websites that can enhance people life.
