@@ -12,13 +12,16 @@ You can click the Preview link to take a look at your changes.
 
 # About ME
 
-Hello there. My name is An and I am a person that have many interests.
+Hello there. My name is An and I am a person that have interests in ...
 
-Here is a small list of my interests
 - Playing game, then understanding what make this game so enjoyable and addicting to play.
 - Coding simple programs, websites, and applications.
 <!-- - Creating simple 3D modals from time to time. 
  -->
+ 
+ I enjoy creating websites using React.
+ Currently I am in the progress of learning TypeScript and how to interact TypeScript with React.
+ 
  
  Want to know more? 
  Head over to my [portfolio page](https://antran1245.github.io/portfolio-2022/).
