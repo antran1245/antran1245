@@ -8,7 +8,8 @@ Hello there. My name is An and I am a person that have interests in ...
  
  Want to know more? 
  Head over to my [portfolio page 2022](https://antran1245.github.io/portfolio-2022/).
- [Portfolio 2023](https://antran1245.github.io/portfolio-2023/) currently in the work.
+ 
+ [Portfolio 2023](https://antran1245.dev/) currently in the work.
  
 ## Skill sets
 
