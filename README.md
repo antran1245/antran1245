@@ -12,20 +12,21 @@ Hello there. My name is An and I am a person that have interests in ...
  Previous Portfolio.
  [portfolio page 2022](https://antran1245.github.io/portfolio-2022/).
   
-## Skill sets
+## Knowledgeable about 
 
 - HTML
 - CSS
-- React.js
-- JavaScript/TypeScript
+- React
+- JavaScript
+- TypeScript
 - Next.js
 - Python
 - Node.js
  
 ## Currently
 
-- I am looking for work and creating websites that can enhance people life.
-- Learning TypeScript and how to interact TypeScript with React.
+- I am looking for a Front-End position and creating websites that can enhance people life.
+- Learning TypeScript.
 
 ## Live Links
 
